@@ -1,2 +1,2 @@
 # Notes
-just notebook
+just a notebook
