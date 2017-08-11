@@ -1,6 +1,6 @@
 ## Notes
 
-工作学习笔记
+issue记录工作学习笔记
 
 - Andorid面试
 - Git简单命令
